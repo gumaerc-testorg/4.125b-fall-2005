@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 4f8ee3a2-feab-3421-ee63-a835b6091e6c
 title: Diana Nee
 uid: f56bf2fa-1469-151d-7554-da944be428dd
@@ -8,7 +12,7 @@ uid: f56bf2fa-1469-151d-7554-da944be428dd
 
 Diana Nee
 ---------
-{{< image-gallery id="f56bf2fa-1469-151d-7554-da944be428dd_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="f56bf2fa-1469-151d-7554-da944be428dd_nanogallery2" baseUrl="/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="4c08cf60df14170b19069ed00a190fd5_nee1.jpg" data-ngdesc="The quarry project model. Image courtesy of MIT OCW." text="The quarry project model." >}}
 {{< image-gallery-item href="c9b22b045f5aae33cd8864696ac99cc7_nee2.jpg" data-ngdesc="A model made from found objects. Image courtesy of MIT OCW." text="A model made from found objects." >}}
 {{< image-gallery-item href="fc71b4f61a37a713aba5aee2fcaeccba_nee3.jpg" data-ngdesc="A first study model, showing the genesis of the curved shape. Image courtesy of MIT OCW." text="A first study model, showing the genesis of the curved shape." >}}
