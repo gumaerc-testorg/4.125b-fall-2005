@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Maggie Nelson
 parent_type: CourseSection
+parent_uid: e4c39cd0-987b-e266-4221-331486936e8f
 resourcetype: Image
 title: nelson6.jpg
 uid: 6abb6bd5-60ed-585c-f57b-221c313c82e0

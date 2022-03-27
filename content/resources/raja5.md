@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Harini Rajaraman
 parent_type: CourseSection
+parent_uid: 203eb0d6-b763-bf48-8f50-c75542f62f5f
 resourcetype: Image
 title: raja5.jpg
 uid: 433c63cf-5a64-7ae1-80c4-296302985bb8

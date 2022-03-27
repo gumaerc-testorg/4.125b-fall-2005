@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Caitlin Mueller
 parent_type: CourseSection
+parent_uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 resourcetype: Image
 title: mueller3.jpg
 uid: b6d1a80c-386f-5017-ee2d-31d838993cb5

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Diana Nee
 parent_type: CourseSection
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee3.jpg
 uid: fc71b4f6-1a37-a713-aba5-aee2fcaeccba

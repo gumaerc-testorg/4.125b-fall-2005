@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'W. Victoria Lee '
 parent_type: CourseSection
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee1.jpg
 uid: c0a14c99-04a1-8c45-086e-7b4369953458

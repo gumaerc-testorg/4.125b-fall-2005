@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 31dac782-4746-92e7-c34f-ef6c5b686516
 resourcetype: Document
 title: assignme3wampler.pdf
 uid: 9aaf5f71-6248-fc8e-ebdd-b4f7e149973c
