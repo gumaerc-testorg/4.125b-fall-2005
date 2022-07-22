@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 4f8ee3a2-feab-3421-ee63-a835b6091e6c
 title: Caitlin Mueller
 uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
@@ -8,7 +12,7 @@ uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 
 Caitlin Mueller
 ---------------
-{{< image-gallery id="dcae75db-dd0b-fd3f-ae07-583e799dd1c4_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="dcae75db-dd0b-fd3f-ae07-583e799dd1c4_nanogallery2" baseUrl="/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="0f65ffb667f63eb3b5bc6b36f227167e_mueller1.jpg" data-ngdesc="The final review, a display of all the work from the semester. Image courtesy of MIT OCW." text="The final review, a display of all the work from the semester." >}}
 {{< image-gallery-item href="e52a4e46259e856052c2cd5444d9bc08_mueller2.jpg" data-ngdesc="Plans and digital renderings of the individual space project. Image courtesy of MIT OCW." text="Plans and digital renderings of the individual space project." >}}
 {{< image-gallery-item href="b6d1a80c386f5017ee2d31d838993cb5_mueller3.jpg" data-ngdesc="Study models for the final project. Image courtesy of MIT OCW." text="Study models for the final project." >}}

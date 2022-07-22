@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 4f8ee3a2-feab-3421-ee63-a835b6091e6c
 title: Maggie Nelson
 uid: e4c39cd0-987b-e266-4221-331486936e8f
@@ -8,7 +12,7 @@ uid: e4c39cd0-987b-e266-4221-331486936e8f
 
 Maggie Nelson
 -------------
-{{< image-gallery id="e4c39cd0-987b-e266-4221-331486936e8f_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="e4c39cd0-987b-e266-4221-331486936e8f_nanogallery2" baseUrl="/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="dbbf4f7437efe2b426efe6be379ecf8c_nelson1.jpg" data-ngdesc="The quarry project: An intimate performance space. Image courtesy of MIT OCW." text="The quarry project: An intimate performance space." >}}
 {{< image-gallery-item href="cc1df8387619034926b6761a76319436_nelson2.jpg" data-ngdesc="The layout of the final review. Image courtesy of MIT OCW." text="The layout of the final review." >}}
 {{< image-gallery-item href="d0c59fe0f31d23ee71da987d5464032f_nelson3.jpg" data-ngdesc="Long view of a design model, showing the interweaving of spaces. Image courtesy of MIT OCW." text="Long view of a design model, showing the interweaving of spaces." >}}
