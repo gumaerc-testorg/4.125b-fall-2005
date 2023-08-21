@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A complete set of problem statements.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Performance Place: Clues / Sites / References / Sketch Model ([PDF]({{< baseurl >}}/resources/assignment1))
+Performance Place: Clues / Sites / References / Sketch Model ({{% resource_link 01748730-fd61-9e22-615f-73e2060180ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Performance Place: Clues / Sites / References / Sketch Model ([PDF]({{< baseurl 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-A Place for the Homeless ([PDF]({{< baseurl >}}/resources/assignment2))
+A Place for the Homeless ({{% resource_link 29d0734e-7c45-0146-f111-f50493dbcb78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ A Place for the Homeless ([PDF]({{< baseurl >}}/resources/assignment2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Individual Place: Research / History on Small Houses. Start Building Site Model. First Design Pass ([PDF]({{< baseurl >}}/resources/assignme3wampler))
+Individual Place: Research / History on Small Houses. Start Building Site Model. First Design Pass ({{% resource_link 9aaf5f71-6248-fc8e-ebdd-b4f7e149973c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Making a Community Place: First Pass with Found Objects and Building Blocks
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Making a Community Place: First Design Pass with Sketch Model and Sketch Drawings ([PDF]({{< baseurl >}}/resources/assignment6))
+Making a Community Place: First Design Pass with Sketch Model and Sketch Drawings ({{% resource_link 0bc7503a-46f2-3bd6-3beb-b4cf8ab8cfa9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Making a Community Place: Making an Echo / Detail of the Building
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Making a Community Place: Revised Design: 1/4 Chunk ([PDF]({{< baseurl >}}/resources/assignment9))
+Making a Community Place: Revised Design: 1/4 Chunk ({{% resource_link 6eb201a2-3738-646d-07dc-93c093379076 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
