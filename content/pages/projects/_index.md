@@ -21,7 +21,8 @@ One of the projects of the studio this semester was the designing and building o
 {{< image-gallery-item href="f3fc42af09910d345e903bbb0de6e716_6.jpg" data-ngdesc="The team installs the shelter in the display space in Lobby 7. Image courtesy of Donna Coveney." text="The team installs the shelter in the display space in Lobby 7." >}}  
 {{< image-gallery-item href="9d7d2952b2de871ccd9aab10cd872bb9_7.jpg" data-ngdesc="Transporting the shelters from the studio to Lobby 7, in very real and harsh conditions. Image courtesy of Donna Coveney." text="Transporting the shelters from the studio to Lobby 7, in very real and harsh conditions." >}}  
 {{< image-gallery-item href="f078e7b38447229641db5befa77ced40_8.jpg" data-ngdesc="One of the shelters also served a double purpose as a flotation device. Image courtesy of Donna Coveney." text="One of the shelters also served a double purpose as a flotation device." >}}  
-{{}}  
+{{</ image-gallery >}}
+
 The other projects for the semester included designing a performance space in a quarry, an individual place, and the final project, a coming together place. Those projects are shown here from a number of students. All work is courtesy of the students named and used with permission.
 
 {{% resource_link 0cb92c43-9292-f2f8-2908-a87acb88da86 "W. Victoria Lee" %}}
