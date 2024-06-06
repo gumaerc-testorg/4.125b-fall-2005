@@ -3,6 +3,7 @@ content_type: resource
 description: Designing a place for you to live in projecting your life ten years from
   now.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/9aaf5f716248fc8eebddb4f7e149973c_assignme3wampler.pdf
+file_size: 80907
 file_type: application/pdf
 learning_resource_types:
 - Assignments

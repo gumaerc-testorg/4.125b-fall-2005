@@ -2,6 +2,7 @@
 content_type: resource
 description: The second floor plan. Image courtesy of MIT OCW.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/7050ff50f297139b4c2a55a3ff439656_nee7.jpg
+file_size: 38079
 file_type: image/jpeg
 image_metadata:
   caption: The second floor plan.

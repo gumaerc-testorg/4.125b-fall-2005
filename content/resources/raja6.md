@@ -2,6 +2,7 @@
 content_type: resource
 description: Another view of the final model. Image courtesy of MIT OCW.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/51564f5ba1e34fb08e8a2c0bbff24adc_raja6.jpg
+file_size: 44865
 file_type: image/jpeg
 image_metadata:
   caption: Another view of the final model.

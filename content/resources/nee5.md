@@ -3,6 +3,7 @@ content_type: resource
 description: A third study model, showing the advancement of the curves. Image courtesy
   of MIT OCW.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/2b5ab0dd9a94d382eca5e5b7e555bcef_nee5.jpg
+file_size: 44035
 file_type: image/jpeg
 image_metadata:
   caption: A third study model, showing the advancement of the curves.
