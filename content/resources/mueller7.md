@@ -2,6 +2,7 @@
 content_type: resource
 description: Floor plans of the final project. Image courtesy of MIT OCW.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/f7f851928431d5c480be0f2585be8ed0_mueller7.jpg
+file_size: 43297
 file_type: image/jpeg
 image_metadata:
   caption: Floor plans of the final project.
