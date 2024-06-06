@@ -3,6 +3,7 @@ content_type: resource
 description: 'The quarry project: An intimate performance space. Image courtesy of
   MIT OCW.'
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/dbbf4f7437efe2b426efe6be379ecf8c_nelson1.jpg
+file_size: 50596
 file_type: image/jpeg
 image_metadata:
   caption: 'The quarry project: An intimate performance space.'

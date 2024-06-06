@@ -2,6 +2,7 @@
 content_type: resource
 description: A model made from found objects. Image courtesy of MIT OCW.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/c9b22b045f5aae33cd8864696ac99cc7_nee2.jpg
+file_size: 56667
 file_type: image/jpeg
 image_metadata:
   caption: A model made from found objects.

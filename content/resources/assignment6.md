@@ -4,6 +4,7 @@ description: The program that would satisfy your needs and bring people together
   the community. We design a building that will be a "coming together" celebration
   and can help achieve peace.
 file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/0bc7503a46f23bd63bebb4cf8ab8cfa9_assignment6.pdf
+file_size: 20180
 file_type: application/pdf
 learning_resource_types:
 - Assignments
