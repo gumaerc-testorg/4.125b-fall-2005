@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A second study model. Image courtesy of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/29063ad2284e7dff8d4a4045bc7ab322_raja4.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/29063ad2284e7dff8d4a4045bc7ab322_raja4.jpg
 file_size: 49998
 file_type: image/jpeg
 image_metadata:
