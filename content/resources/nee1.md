@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The quarry project model. Image courtesy of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/4c08cf60df14170b19069ed00a190fd5_nee1.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/4c08cf60df14170b19069ed00a190fd5_nee1.jpg
 file_size: 44682
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A first study model, showing the genesis of the curved shape. Image courtesy
   of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/fc71b4f61a37a713aba5aee2fcaeccba_nee3.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/fc71b4f61a37a713aba5aee2fcaeccba_nee3.jpg
 file_size: 49210
 file_type: image/jpeg
 image_metadata:

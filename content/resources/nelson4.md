@@ -2,7 +2,7 @@
 content_type: resource
 description: The final model, with it's relation to the surroundings. Image courtesy
   of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/a9f63b47b77f3df133b548951df82d78_nelson4.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/a9f63b47b77f3df133b548951df82d78_nelson4.jpg
 file_size: 43903
 file_type: image/jpeg
 image_metadata:

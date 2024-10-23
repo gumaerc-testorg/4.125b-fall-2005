@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The layout of the final review. Image courtesy of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/cc1df8387619034926b6761a76319436_nelson2.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/cc1df8387619034926b6761a76319436_nelson2.jpg
 file_size: 51079
 file_type: image/jpeg
 image_metadata:
