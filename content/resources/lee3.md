@@ -2,7 +2,7 @@
 content_type: resource
 description: The program, laid out in a series of diagrams. Image courtesy of MIT
   OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/52f357bdf9d558e493f6f65aff96d3bf_lee3.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/52f357bdf9d558e493f6f65aff96d3bf_lee3.jpg
 file_size: 52577
 file_type: image/jpeg
 image_metadata:

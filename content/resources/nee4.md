@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A more refined study model. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/dc1f7c64d7100ecf40762e7545f5cf82_nee4.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/dc1f7c64d7100ecf40762e7545f5cf82_nee4.jpg
 file_size: 41565
 file_type: image/jpeg
 image_metadata:
