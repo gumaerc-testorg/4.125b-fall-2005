@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Digital renderings of the final project. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/cc7aa0bbdc8c12cb4909e56ead445918_nelson8.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/cc7aa0bbdc8c12cb4909e56ead445918_nelson8.jpg
 file_size: 43929
 file_type: image/jpeg
 image_metadata:

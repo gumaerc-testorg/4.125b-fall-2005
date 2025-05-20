@@ -2,7 +2,7 @@
 content_type: resource
 description: A detail model, showing how the structure and tectonics of the space
   work. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/07ff668462ec437aefa097661bbc055c_lee6.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/07ff668462ec437aefa097661bbc055c_lee6.jpg
 file_size: 55967
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Plans and digital renderings of the individual space project. Image courtesy
   of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/e52a4e46259e856052c2cd5444d9bc08_mueller2.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/e52a4e46259e856052c2cd5444d9bc08_mueller2.jpg
 file_size: 53563
 file_type: image/jpeg
 image_metadata:

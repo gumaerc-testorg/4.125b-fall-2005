@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Working with found objects, junk models began to form the space of the
   project. Image courtesy of MIT OCW. '
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/c0a14c9904a18c45086e7b4369953458_lee1.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/c0a14c9904a18c45086e7b4369953458_lee1.jpg
 file_size: 48562
 file_type: image/jpeg
 image_metadata:
