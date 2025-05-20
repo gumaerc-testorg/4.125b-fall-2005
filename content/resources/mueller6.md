@@ -2,7 +2,7 @@
 content_type: resource
 description: A long view of the final model, from the pedestrian's perspective. Image
   courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/7f247a8280c509ddad4e6b37227f0788_mueller6.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/7f247a8280c509ddad4e6b37227f0788_mueller6.jpg
 file_size: 48145
 file_type: image/jpeg
 image_metadata:

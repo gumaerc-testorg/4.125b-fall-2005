@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A section through the space. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/623b0d95fd911eebadb511f31af3fbc9_nee8.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/623b0d95fd911eebadb511f31af3fbc9_nee8.jpg
 file_size: 32660
 file_type: image/jpeg
 image_metadata:

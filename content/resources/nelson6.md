@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Plans of the final project. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/6abb6bd560ed585cf57b221c313c82e0_nelson6.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/6abb6bd560ed585cf57b221c313c82e0_nelson6.jpg
 file_size: 51662
 file_type: image/jpeg
 image_metadata:

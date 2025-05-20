@@ -2,7 +2,7 @@
 content_type: resource
 description: The final review, a display of all the work from the semester. Image
   courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/0f65ffb667f63eb3b5bc6b36f227167e_mueller1.jpg
+file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/0f65ffb667f63eb3b5bc6b36f227167e_mueller1.jpg
 file_size: 59787
 file_type: image/jpeg
 image_metadata:
