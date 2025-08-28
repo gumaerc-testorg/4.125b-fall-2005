@@ -2,7 +2,7 @@
 content_type: resource
 description: The final model, showing the project in its site. Image courtesy of MIT
   OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/1c58b2e334e6851548bc247448d3dbc0_lee7.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/1c58b2e334e6851548bc247448d3dbc0_lee7.jpg
 file_size: 48112
 file_type: image/jpeg
 image_metadata:

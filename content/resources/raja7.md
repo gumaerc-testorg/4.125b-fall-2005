@@ -2,7 +2,7 @@
 content_type: resource
 description: A detailed structural model of the final project. Image courtesy of MIT
   OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/f4c0d1b3b80967a1367ce1c0adf431f6_raja7.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/f4c0d1b3b80967a1367ce1c0adf431f6_raja7.jpg
 file_size: 51093
 file_type: image/jpeg
 image_metadata:
