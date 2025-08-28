@@ -2,7 +2,7 @@
 content_type: resource
 description: Digital renderings of the quarry and individual projects. Image courtesy
   of MIT OCW.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/4e0717b4f1f974a66d7bb56da8334a74_nelson5.jpg
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/4e0717b4f1f974a66d7bb56da8334a74_nelson5.jpg
 file_size: 57276
 file_type: image/jpeg
 image_metadata:

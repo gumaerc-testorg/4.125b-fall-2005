@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Making of model.
-file: /courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/6eb201a23738646d07dc93c093379076_assignment9.pdf
+file: /ol-ocw-studio-app/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/6eb201a23738646d07dc93c093379076_assignment9.pdf
 file_size: 16986
 file_type: application/pdf
 learning_resource_types:
